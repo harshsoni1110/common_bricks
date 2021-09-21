@@ -1,0 +1,4 @@
+name: stateless_widget
+description: Brick to generate very basic stateless widget.
+vars:
+  - fileName
